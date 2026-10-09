@@ -4,14 +4,13 @@
 <img src="banner.svg" alt="Bhoomika Subramanya banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=640&lines=Turning+complex+problems+into+working+software;Building+AI-powered+full+stack+apps;Shipping+features+real+users+rely+on;Bengaluru%2C+India" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D6B83&center=true&vCenter=true&width=640&lines=Turning+complex+problems+into+working+software;Building+AI-powered+full+stack+apps;Shipping+features+real+users+rely+on;Bengaluru%2C+India" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bhoomika-subramanya-39a14a306"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://bhoomika-subramanya-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="mailto:bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bhoomika-subramanya-39a14a306"><img src="https://img.shields.io/badge/LinkedIn-F5C9D6?style=for-the-badge&logo=linkedin&logoColor=6B4A5E" /></a>
+<a href="mailto:bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E" /></a>
 
 </div>
 
@@ -46,45 +45,45 @@ I enjoy turning complex problems into practical, working software. I like owning
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-2D1B3D?style=for-the-badge&logo=python&logoColor=F8A5C2)
-![JavaScript](https://img.shields.io/badge/JavaScript-2D1B3D?style=for-the-badge&logo=javascript&logoColor=F8A5C2)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D1B3D?style=for-the-badge&logo=typescript&logoColor=F8A5C2)
-![Kotlin](https://img.shields.io/badge/Kotlin-2D1B3D?style=for-the-badge&logo=kotlin&logoColor=F8A5C2)
+![Python](https://img.shields.io/badge/Python-F9E1E6?style=for-the-badge&logo=python&logoColor=8E5572)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9E1E6?style=for-the-badge&logo=javascript&logoColor=8E5572)
+![TypeScript](https://img.shields.io/badge/TypeScript-F9E1E6?style=for-the-badge&logo=typescript&logoColor=8E5572)
+![Kotlin](https://img.shields.io/badge/Kotlin-F9E1E6?style=for-the-badge&logo=kotlin&logoColor=8E5572)
 
 **Web & Backend**
 
-![React](https://img.shields.io/badge/React-2D1B3D?style=for-the-badge&logo=react&logoColor=F8A5C2)
-![Node.js](https://img.shields.io/badge/Node.js-2D1B3D?style=for-the-badge&logo=nodedotjs&logoColor=F8A5C2)
-![Express](https://img.shields.io/badge/Express-2D1B3D?style=for-the-badge&logo=express&logoColor=F8A5C2)
-![Flask](https://img.shields.io/badge/Flask-2D1B3D?style=for-the-badge&logo=flask&logoColor=F8A5C2)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-2D1B3D?style=for-the-badge&logo=redux&logoColor=F8A5C2)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2D1B3D?style=for-the-badge&logo=tailwindcss&logoColor=F8A5C2)
-![Tauri](https://img.shields.io/badge/Tauri-2D1B3D?style=for-the-badge&logo=tauri&logoColor=F8A5C2)
+![React](https://img.shields.io/badge/React-FDE8DC?style=for-the-badge&logo=react&logoColor=8E5572)
+![Node.js](https://img.shields.io/badge/Node.js-FDE8DC?style=for-the-badge&logo=nodedotjs&logoColor=8E5572)
+![Express](https://img.shields.io/badge/Express-FDE8DC?style=for-the-badge&logo=express&logoColor=8E5572)
+![Flask](https://img.shields.io/badge/Flask-FDE8DC?style=for-the-badge&logo=flask&logoColor=8E5572)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-FDE8DC?style=for-the-badge&logo=redux&logoColor=8E5572)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FDE8DC?style=for-the-badge&logo=tailwindcss&logoColor=8E5572)
+![Tauri](https://img.shields.io/badge/Tauri-FDE8DC?style=for-the-badge&logo=tauri&logoColor=8E5572)
 
 **Android**
 
-![Kotlin](https://img.shields.io/badge/Jetpack_Compose-2D1B3D?style=for-the-badge&logo=jetpackcompose&logoColor=F8A5C2)
-![Android Studio](https://img.shields.io/badge/Android_Studio-2D1B3D?style=for-the-badge&logo=androidstudio&logoColor=F8A5C2)
-![MVVM](https://img.shields.io/badge/MVVM-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
-![Room](https://img.shields.io/badge/Room_DB-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
+![Kotlin](https://img.shields.io/badge/Jetpack_Compose-E8DDF5?style=for-the-badge&logo=jetpackcompose&logoColor=8E5572)
+![Android Studio](https://img.shields.io/badge/Android_Studio-E8DDF5?style=for-the-badge&logo=androidstudio&logoColor=8E5572)
+![MVVM](https://img.shields.io/badge/MVVM-E8DDF5?style=for-the-badge&logoColor=8E5572)
+![Room](https://img.shields.io/badge/Room_DB-E8DDF5?style=for-the-badge&logoColor=8E5572)
 
 **AI & Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-2D1B3D?style=for-the-badge&logo=pytorch&logoColor=F8A5C2)
-![OpenCV](https://img.shields.io/badge/OpenCV-2D1B3D?style=for-the-badge&logo=opencv&logoColor=F8A5C2)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2D1B3D?style=for-the-badge&logo=scikitlearn&logoColor=F8A5C2)
-![Pandas](https://img.shields.io/badge/Pandas-2D1B3D?style=for-the-badge&logo=pandas&logoColor=F8A5C2)
-![NumPy](https://img.shields.io/badge/NumPy-2D1B3D?style=for-the-badge&logo=numpy&logoColor=F8A5C2)
-![Claude API](https://img.shields.io/badge/Claude_API-2D1B3D?style=for-the-badge&logo=anthropic&logoColor=F8A5C2)
-![Gemini API](https://img.shields.io/badge/Gemini_API-2D1B3D?style=for-the-badge&logo=googlegemini&logoColor=F8A5C2)
-![RAG](https://img.shields.io/badge/RAG-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
+![PyTorch](https://img.shields.io/badge/PyTorch-F9E1E6?style=for-the-badge&logo=pytorch&logoColor=8E5572)
+![OpenCV](https://img.shields.io/badge/OpenCV-F9E1E6?style=for-the-badge&logo=opencv&logoColor=8E5572)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F9E1E6?style=for-the-badge&logo=scikitlearn&logoColor=8E5572)
+![Pandas](https://img.shields.io/badge/Pandas-F9E1E6?style=for-the-badge&logo=pandas&logoColor=8E5572)
+![NumPy](https://img.shields.io/badge/NumPy-F9E1E6?style=for-the-badge&logo=numpy&logoColor=8E5572)
+![Claude API](https://img.shields.io/badge/Claude_API-F9E1E6?style=for-the-badge&logo=anthropic&logoColor=8E5572)
+![Gemini API](https://img.shields.io/badge/Gemini_API-F9E1E6?style=for-the-badge&logo=googlegemini&logoColor=8E5572)
+![RAG](https://img.shields.io/badge/RAG-F9E1E6?style=for-the-badge&logoColor=8E5572)
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D1B3D?style=for-the-badge&logo=postgresql&logoColor=F8A5C2)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-2D1B3D?style=for-the-badge&logo=drizzle&logoColor=F8A5C2)
-![Git](https://img.shields.io/badge/Git-2D1B3D?style=for-the-badge&logo=git&logoColor=F8A5C2)
-![GitHub](https://img.shields.io/badge/GitHub-2D1B3D?style=for-the-badge&logo=github&logoColor=F8A5C2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FDE8DC?style=for-the-badge&logo=postgresql&logoColor=8E5572)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-FDE8DC?style=for-the-badge&logo=drizzle&logoColor=8E5572)
+![Git](https://img.shields.io/badge/Git-FDE8DC?style=for-the-badge&logo=git&logoColor=8E5572)
+![GitHub](https://img.shields.io/badge/GitHub-FDE8DC?style=for-the-badge&logo=github&logoColor=8E5572)
 
 <br/>
 
@@ -169,7 +168,7 @@ Random Forest model with a **93% R²** score, picked from five compared models. 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bhoomika-subramanya&theme=default&background=2D1B3D&ring=F8A5C2&fire=E75480&currStreakNum=F8A5C2&sideNums=FFFFFF&currStreakLabel=E75480&sideLabels=B8A1E3&dates=B8A1E3&stroke=B8A1E3&border=B8A1E3&hide_border=false" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=bhoomika-subramanya&theme=default&background=FBEFF3&ring=E3AEC0&fire=E28FA8&currStreakNum=7A4B63&sideNums=7A4B63&currStreakLabel=9D6B83&sideLabels=9D6B83&dates=8C7A9B&stroke=E8DDF5&border=E8DDF5" alt="GitHub streak" />
 
 <br/><br/>
 
@@ -185,9 +184,8 @@ I'm open to **software developer and AI roles**, and to collaborating on AI and 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-subramanya-39a14a306)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white)](https://bhoomika-subramanya-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomikasubramanya3172004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5C9D6?style=for-the-badge&logo=linkedin&logoColor=6B4A5E)](https://www.linkedin.com/in/bhoomika-subramanya-39a14a306)
+[![Email](https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E)](mailto:bhoomikasubramanya3172004@gmail.com)
 
 ✿ ✿ ✿
 
