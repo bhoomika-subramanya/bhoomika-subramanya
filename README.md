@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8A5C2,50:E75480,100:B8A1E3&text=Bhoomika%20Subramanya&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Full%20Stack&descAlignY=60&descSize=18" alt="Bhoomika Subramanya banner" />
+<img src="banner.svg" alt="Bhoomika Subramanya banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=640&lines=Turning+complex+problems+into+working+software;Building+AI-powered+full+stack+apps;Shipping+features+real+users+rely+on;Bengaluru%2C+India" alt="Typing intro" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/bhoomika-subramanya"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bhoomika-subramanya-39a14a306"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://bhoomika-subramanya-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="mailto:bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -88,16 +88,6 @@ I enjoy turning complex problems into practical, working software. I like owning
 
 <br/>
 
-## 🎀 Experience
-
-| When | Where | What I did |
-|---|---|---|
-| **Mar – Aug 2026** | **TensorHub Technologies**<br/>Software Development Intern | Built frontend and backend features for **THriveX Agent Studio**, a multi-agent AI task platform. Set up Orchestrator workflows for a **12-agent** system that automates SEO and AEO content using the Claude API. Developed **THriveX Clinical**, a patient management module with multi-specialist AI consultation review. |
-| **Feb – May 2026** | **MindMatrix**<br/>Android App Development Intern | Delivered **Arogya-Sahaya**, an offline-first Android health app with Gemini-powered prescription scanning. Completed hands-on AI agent training with RAG, earning **62 Trailhead badges and 2 Superbadges**. |
-| **Feb – Mar 2025** | **Bharat Electronics Limited (BEL)**<br/>ML & Automation Solutions Intern | Built a real-time human detection and pedestrian counting system with **YOLOv8n + OpenCV (95% detection accuracy)**. Built a real-time OCR pipeline with Tesseract. |
-
-<br/>
-
 ## 🌷 Featured Projects
 
 <table>
@@ -148,10 +138,6 @@ Random Forest model with a **93% R²** score, picked from five compared models. 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomika-subramanya&bg_color=2D1B3D&color=F8A5C2&line=E75480&point=FFFFFF&area=true&area_color=E75480&hide_border=true" alt="Contribution graph" />
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/bhoomika-subramanya/bhoomika-subramanya/output/github-snake.svg" alt="Contribution snake" />
 
 </div>
@@ -164,10 +150,10 @@ I'm open to **software developer and AI roles**, and to collaborating on AI and 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomika-subramanya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-subramanya-39a14a306)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white)](https://bhoomika-subramanya-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomikasubramanya3172004@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:B8A1E3,50:E75480,100:F8A5C2&section=footer" alt="footer" />
+✿ ✿ ✿
 
 </div>
