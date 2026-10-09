@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/bhoomika-subramanya-39a14a306"><img src="https://img.shields.io/badge/LinkedIn-F5C9D6?style=for-the-badge&logo=linkedin&logoColor=6B4A5E" /></a>
-<a href="mailto:bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E" /></a>
 
 </div>
 
@@ -97,16 +97,16 @@ I enjoy turning complex problems into practical, working software. I like owning
 <th width="50%">📚 Learning Path</th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 Multi-Agent AI Systems<br/>
-LLM APIs (Claude & Gemini)<br/>
-Retrieval Augmented Generation<br/>
-Full Stack Apps (React + Node.js)<br/>
+Claude & Gemini APIs<br/>
+RAG Pipelines<br/>
+Full Stack Web Apps<br/>
 Android with Jetpack Compose
 
 </td>
-<td align="center">
+<td align="center" valign="top">
 
 Model Context Protocol (MCP)<br/>
 Advanced AI Agent Workflows<br/>
@@ -185,7 +185,7 @@ I'm open to **software developer and AI roles**, and to collaborating on AI and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F5C9D6?style=for-the-badge&logo=linkedin&logoColor=6B4A5E)](https://www.linkedin.com/in/bhoomika-subramanya-39a14a306)
-[![Email](https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E)](mailto:bhoomikasubramanya3172004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FBE0D3?style=for-the-badge&logo=gmail&logoColor=6B4A5E)](https://mail.google.com/mail/?view=cm&fs=1&to=bhoomikasubramanya3172004@gmail.com)
 
 ✿ ✿ ✿
 
