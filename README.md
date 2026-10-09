@@ -88,6 +88,41 @@ I enjoy turning complex problems into practical, working software. I like owning
 
 <br/>
 
+## 🎀 Currently Exploring
+
+<div align="center">
+
+<table>
+<tr>
+<th width="50%">🌱 Building With</th>
+<th width="50%">📚 Learning Path</th>
+</tr>
+<tr>
+<td align="center">
+
+Multi-Agent AI Systems<br/>
+LLM APIs (Claude & Gemini)<br/>
+Retrieval Augmented Generation<br/>
+Full Stack Apps (React + Node.js)<br/>
+Android with Jetpack Compose
+
+</td>
+<td align="center">
+
+Model Context Protocol (MCP)<br/>
+Advanced AI Agent Workflows<br/>
+Deep Learning Fundamentals<br/>
+Production-Ready AI Systems<br/>
+Writing Cleaner, Tested Code
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## 🌷 Featured Projects
 
 <table>
