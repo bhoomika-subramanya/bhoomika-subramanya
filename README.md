@@ -1,119 +1,194 @@
+<!-- Banner -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Bhoomika Subramanya</h1>
+<img src="banner.svg" alt="Bhoomika Subramanya banner" width="100%" />
 
-<h3 align="center">Software Developer | AI/ML Engineer | Full Stack Developer</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E75480&center=true&vCenter=true&width=640&lines=Turning+complex+problems+into+working+software;Building+AI-powered+full+stack+apps;Shipping+features+real+users+rely+on;Bengaluru%2C+India" alt="Typing intro" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/bhoomika-subramanya-39a14a306">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://bhoomika-subramanya-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:bhoomikasubramanya3172004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/bhoomika-subramanya-39a14a306"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://bhoomika-subramanya-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:bhoomikasubramanya3172004@gmail.com"><img src="https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 👩‍💻 About Me
+</div>
 
-- 🎓 Computer Science Engineering graduate in AI & ML from JSSATEB, Bengaluru.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and AI Agents.
-- 💻 Experienced in building full-stack applications and AI-powered features.
-- 🧠 Exploring multi-agent systems, RAG, and Generative AI.
-- 🏆 Hackathon winner with a passion for solving real-world problems.
-- 🌱 Always learning and building something new.
+<br/>
 
----
+## 🌸 About Me
 
-## 🛠️ Tech Stack
+```python
+class Bhoomika:
+    def __init__(self):
+        self.role      = "Software Developer"
+        self.based_in  = "Bengaluru, India"
+        self.education = "B.E. CSE (AI & ML), JSSATE | CGPA 9.01"
+
+    def what_i_do(self):
+        return [
+            "Build AI-powered features with Claude & Gemini APIs",
+            "Ship full stack apps with React, Node.js and Flask",
+            "Create offline-first Android apps in Kotlin",
+            "Test what I build, end to end",
+        ]
+
+    def currently(self):
+        return "Open to full-time software / AI roles 💌"
+```
+
+I enjoy turning complex problems into practical, working software. I like owning a task from prototype to testing to shipping, and I work well with engineers, testers and stakeholders alike.
+
+<br/>
+
+## 💻 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D1B3D?style=for-the-badge&logo=python&logoColor=F8A5C2)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D1B3D?style=for-the-badge&logo=javascript&logoColor=F8A5C2)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D1B3D?style=for-the-badge&logo=typescript&logoColor=F8A5C2)
+![Kotlin](https://img.shields.io/badge/Kotlin-2D1B3D?style=for-the-badge&logo=kotlin&logoColor=F8A5C2)
 
-**AI / Machine Learning**
+**Web & Backend**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-2D1B3D?style=for-the-badge&logo=react&logoColor=F8A5C2)
+![Node.js](https://img.shields.io/badge/Node.js-2D1B3D?style=for-the-badge&logo=nodedotjs&logoColor=F8A5C2)
+![Express](https://img.shields.io/badge/Express-2D1B3D?style=for-the-badge&logo=express&logoColor=F8A5C2)
+![Flask](https://img.shields.io/badge/Flask-2D1B3D?style=for-the-badge&logo=flask&logoColor=F8A5C2)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-2D1B3D?style=for-the-badge&logo=redux&logoColor=F8A5C2)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2D1B3D?style=for-the-badge&logo=tailwindcss&logoColor=F8A5C2)
+![Tauri](https://img.shields.io/badge/Tauri-2D1B3D?style=for-the-badge&logo=tauri&logoColor=F8A5C2)
 
-**Web Development**
+**Android**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Jetpack_Compose-2D1B3D?style=for-the-badge&logo=jetpackcompose&logoColor=F8A5C2)
+![Android Studio](https://img.shields.io/badge/Android_Studio-2D1B3D?style=for-the-badge&logo=androidstudio&logoColor=F8A5C2)
+![MVVM](https://img.shields.io/badge/MVVM-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
+![Room](https://img.shields.io/badge/Room_DB-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2D1B3D?style=for-the-badge&logo=pytorch&logoColor=F8A5C2)
+![OpenCV](https://img.shields.io/badge/OpenCV-2D1B3D?style=for-the-badge&logo=opencv&logoColor=F8A5C2)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2D1B3D?style=for-the-badge&logo=scikitlearn&logoColor=F8A5C2)
+![Pandas](https://img.shields.io/badge/Pandas-2D1B3D?style=for-the-badge&logo=pandas&logoColor=F8A5C2)
+![NumPy](https://img.shields.io/badge/NumPy-2D1B3D?style=for-the-badge&logo=numpy&logoColor=F8A5C2)
+![Claude API](https://img.shields.io/badge/Claude_API-2D1B3D?style=for-the-badge&logo=anthropic&logoColor=F8A5C2)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2D1B3D?style=for-the-badge&logo=googlegemini&logoColor=F8A5C2)
+![RAG](https://img.shields.io/badge/RAG-2D1B3D?style=for-the-badge&logoColor=F8A5C2)
 
 **Databases & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D1B3D?style=for-the-badge&logo=postgresql&logoColor=F8A5C2)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-2D1B3D?style=for-the-badge&logo=drizzle&logoColor=F8A5C2)
+![Git](https://img.shields.io/badge/Git-2D1B3D?style=for-the-badge&logo=git&logoColor=F8A5C2)
+![GitHub](https://img.shields.io/badge/GitHub-2D1B3D?style=for-the-badge&logo=github&logoColor=F8A5C2)
 
----
+<br/>
 
-## 🚀 Featured Projects
+## 🎀 Currently Exploring
 
-### 🧠 Meta-Learning Based Multi-Agent System
-- Designed a 7-agent system for neural architecture generation and evaluation.
-- Implemented evolutionary mutations to improve architectures across generations.
-- **Tech:** Python, PyTorch
+<div align="center">
+
+<table>
+<tr>
+<th width="50%">🌱 Building With</th>
+<th width="50%">📚 Learning Path</th>
+</tr>
+<tr>
+<td align="center">
+
+Multi-Agent AI Systems<br/>
+LLM APIs (Claude & Gemini)<br/>
+Retrieval Augmented Generation<br/>
+Full Stack Apps (React + Node.js)<br/>
+Android with Jetpack Compose
+
+</td>
+<td align="center">
+
+Model Context Protocol (MCP)<br/>
+Advanced AI Agent Workflows<br/>
+Deep Learning Fundamentals<br/>
+Production-Ready AI Systems<br/>
+Writing Cleaner, Tested Code
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🌷 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Multi-Agent Model Synthesis
+A **7-agent system** (Planner, CodeGen, Training, Evaluator, Evolver, Memory, Reflexion) that generates and evolves neural architectures for MNIST using NEAT-inspired mutations.
+
+`Python` `PyTorch`
+
+</td>
+<td width="33%" valign="top">
 
 ### 📝 Universal Annotator
-- Built a desktop application to capture, organize, and search notes and ideas.
-- Integrated Gemini AI for automatic tagging and smart summarization.
-- **Tech:** React, TypeScript, Tauri, Express, PostgreSQL
+A desktop annotation app with a **global hotkey popup**. Gemini 2.5 Flash adds auto-tags and summaries. Includes a dashboard and CSV, Markdown and PDF export.
 
-### 🏠 House Price Prediction
-- Developed a machine learning model achieving a 93% R² score.
-- Created an interactive application for real-time house price prediction.
-- **Tech:** Python, Scikit-learn, Pandas, NumPy, Streamlit
+`React` `Tauri` `Express` `PostgreSQL`
 
-### 👁️ Human Detection & Pedestrian Counting
-- Developed real-time human detection and pedestrian counting.
-- Built image, video, and webcam-based detection with YOLOv8n and OpenCV.
-- **Tech:** Python, YOLOv8n, OpenCV
+</td>
+<td width="33%" valign="top">
 
----
+### 🏡 House Price Prediction
+Random Forest model with a **93% R²** score, picked from five compared models. Served as an interactive Streamlit app.
 
-## 🏆 Achievements
+`Python` `Scikit-learn` `Streamlit`
 
-- 🥇 1st Place — OMNITRICS 8-Hour Hackathon, 2025
-- 🥉 3rd Place — SDGForge Hackathon (CUEST 2.0), 2025
-- 🎓 OCI Generative AI Professional Certification
-- 🧠 NVIDIA Fundamentals of Deep Learning Certification
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-subramanya&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-subramanya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+- 🥇 **1st Place**: OMNITRICS 8-Hour Hackathon, The National College (Sept 2025), built with Python and Flask
+- 🥉 **3rd Place**: SDGForge Hackathon (CUEST 2.0), Atria Institute of Technology (Aug 2025)
+- 🎯 **Participant**: JSS4SoC'24 Hackathon, GeeksforGeeks JSSATE (July 2024)
+- 📜 OCI Generative AI Professional (Oracle) · Fundamentals of Deep Learning (NVIDIA) · Introduction to MCP (Claude) · Google AI Essentials · Google Prompting Essentials · Oracle Cloud Database Services
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhoomika-subramanya&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+## 📊 GitHub Stats
 
-## 🤝 Let's Connect
+<div align="center">
 
-- 💼 LinkedIn: [Bhoomika Subramanya](https://linkedin.com/in/bhoomika-subramanya-39a14a306)
-- 🌐 Portfolio: [Visit my portfolio](https://bhoomika-subramanya-portfolio.netlify.app)
-- 📧 Email: bhoomikasubramanya3172004@gmail.com
+<img src="https://streak-stats.demolab.com?user=bhoomika-subramanya&theme=default&background=2D1B3D&ring=F8A5C2&fire=E75480&currStreakNum=F8A5C2&sideNums=FFFFFF&currStreakLabel=E75480&sideLabels=B8A1E3&dates=B8A1E3&stroke=B8A1E3&border=B8A1E3&hide_border=false" alt="GitHub streak" />
 
-<p align="center">
-  <i>Building practical solutions with code, AI, and curiosity.</i>
-</p>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/bhoomika-subramanya/bhoomika-subramanya/output/github-snake.svg" alt="Contribution snake" />
+
+</div>
+
+<br/>
+
+## 💌 Let's Connect
+
+I'm open to **software developer and AI roles**, and to collaborating on AI and full stack projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-subramanya-39a14a306)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8A1E3?style=for-the-badge&logo=netlify&logoColor=white)](https://bhoomika-subramanya-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomikasubramanya3172004@gmail.com)
+
+✿ ✿ ✿
+
+</div>
